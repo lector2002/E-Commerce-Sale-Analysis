@@ -15,7 +15,7 @@ Provide business‑insight outputs: underperforming products, seasonality / dema
 
 # 📂 Repository Structure
 ```
-/                — root directory  
+/   — root directory  
   ├── dataset/     — raw / cleaned datasets used in analysis  
   ├── E-commerce Sales Dashboard.pbix   — Power BI dashboard file  
   └── README.md    — this file  
