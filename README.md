@@ -24,7 +24,7 @@ Provide business‑insight outputs: underperforming products, seasonality / dema
 
 Power BI — for data visualization and dashboard creation
 
-Python / Pandas (optional) — for data cleaning / preprocessing (if used)
+Python / Pandas (optional) — for data cleaning / preprocessing 
 
 Excel / CSV — for storing and handling sales data before visualization
 
